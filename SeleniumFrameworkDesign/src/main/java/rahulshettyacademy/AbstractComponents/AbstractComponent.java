@@ -13,6 +13,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import rahulshettyacademy.pageobjects.CartPage;
 import rahulshettyacademy.pageobjects.OrderPage;
 
+// Abstract
 public class AbstractComponent {
 	
 	WebDriver driver;
